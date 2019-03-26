@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">External-Activities</string>
+    <string name="app_call">create call</string>
+    <string name="app_map">open map</string>
+    <string name="app_go">go</string>
+</resources>

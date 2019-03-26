@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Color Menu</string>
+    <string name="clr_red">Red</string>
+    <string name="clr_green">Green</string>
+    <string name="clr_blue">Blue</string>
+    <string name="clr_yellow">Yellow</string>
+    <string name="welcome">Hello!</string>
+</resources>

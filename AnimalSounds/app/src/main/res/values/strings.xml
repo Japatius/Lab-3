@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animal-Sounds</string>
+    <string name="animal_alert">Click on an animal and see what it has to say!</string>
+</resources>

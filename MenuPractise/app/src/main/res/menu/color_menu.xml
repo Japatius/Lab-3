@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clr_red"
+        android:title="@string/clr_red"
+        />
+    <item
+        android:id="@+id/clr_green"
+        android:title="@string/clr_green"
+        />
+    <item
+        android:id="@+id/clr_blue"
+        android:title="@string/clr_blue"
+        />
+    <item
+        android:id="@+id/clr_yellow"
+        android:title="@string/clr_yellow"
+        />
+</menu>
